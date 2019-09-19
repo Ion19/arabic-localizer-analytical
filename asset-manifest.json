@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/arabic-localizer-analytical/static/css/main.9ea9f25c.chunk.css",
+    "main.js": "/arabic-localizer-analytical/static/js/main.47a79180.chunk.js",
+    "main.js.map": "/arabic-localizer-analytical/static/js/main.47a79180.chunk.js.map",
+    "runtime~main.js": "/arabic-localizer-analytical/static/js/runtime~main.48c20d95.js",
+    "runtime~main.js.map": "/arabic-localizer-analytical/static/js/runtime~main.48c20d95.js.map",
+    "static/css/2.266e55a5.chunk.css": "/arabic-localizer-analytical/static/css/2.266e55a5.chunk.css",
+    "static/js/2.3f7ca359.chunk.js": "/arabic-localizer-analytical/static/js/2.3f7ca359.chunk.js",
+    "static/js/2.3f7ca359.chunk.js.map": "/arabic-localizer-analytical/static/js/2.3f7ca359.chunk.js.map",
+    "index.html": "/arabic-localizer-analytical/index.html",
+    "precache-manifest.495157aa77fba6ab25f8e65b345e3130.js": "/arabic-localizer-analytical/precache-manifest.495157aa77fba6ab25f8e65b345e3130.js",
+    "service-worker.js": "/arabic-localizer-analytical/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/arabic-localizer-analytical/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.9ea9f25c.chunk.css.map": "/arabic-localizer-analytical/static/css/main.9ea9f25c.chunk.css.map",
+    "static/media/font-awesome.min.css": "/arabic-localizer-analytical/static/media/fontawesome-webfont.fdf491ce.woff",
+    "static/media/profile.jpg": "/arabic-localizer-analytical/static/media/profile.8adf8a66.jpg"
+  }
+}

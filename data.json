@@ -1,0 +1,161 @@
+{
+    "charts": {
+        "chartOne" :{
+            "labels" :["creative","inventory","3rd Party","SEO","Merchandising"], 
+            "datasets":[{
+    
+            "data":[4.1,3,4.2,2.9,3.9]
+            ,
+    
+            "backgroundColor":[
+                "#db5442", 
+                "#f8aa27", 
+                "#36ad60", 
+                "#3d93cc", 
+                "#19234f"
+                
+            ] , 
+            "borderColor"	:[
+                "#ccc"
+            ] 
+    
+        
+        }]
+        }, 
+
+        "chartTwo" :{
+            "labels" :[
+                "Neutrogena Healthy Oz", 
+                "Milani Baked Blushs", 
+                "e.l.f. Cosmetics Pur", 
+                "NYX PROFESSIONAL ", 
+                "COVERGIRL Classic" , 
+                "Physicians Formula"
+            ], 
+            "datasets":[{
+    
+            "data":[4.1,3,3.2,2.9,3.9,4], 
+    
+            "backgroundColor":[
+                "#000",
+                "#000",
+                "#000",
+                "#000",
+                "#000",
+                "#000"
+    
+                
+            ] 
+        
+        }] 
+        }, 
+    
+        "chartThree" :{
+            "labels" :[
+                "Q 1", 
+                "Q 2", 
+                "Q 3", 
+                "Q 4", 
+                "Q 5" 
+            ], 
+            "datasets":[{
+    
+            "data":[2,2.8,3.2,4.1,4.5], 
+    
+            "backgroundColor":[
+                "#d1d3dc"
+                
+                
+            ] , 
+            "borderColor"	:[
+                "#19234f"
+            ]
+    
+        
+        }]
+        }, 
+
+        "chartFour" :{
+            "labels" :[
+                "Q 1", 
+                "Q 2", 
+                "Q 3", 
+                "Q 4", 
+                "Q 5" 
+            ], 
+            "datasets":[{
+    
+            "data":[2.0,2.2,3.4,4.5,4.8], 
+    
+            "backgroundColor":[
+                "#d1d3dc"
+                
+                
+            ] , 
+            "borderColor"	:[
+                "#19234f"
+            ]
+    
+        
+        }]
+        }, 
+
+        "chartFive" :{
+            "labels" :[
+                "Q 1", 
+                "Q 2", 
+                "Q 3", 
+                "Q 4", 
+                "Q 5" 
+            ], 
+            "datasets":[{
+    
+            "data":[2.5,2.8,3.0,3.5,4.3], 
+    
+            "backgroundColor":[
+                "#d1d3dc"
+                
+                
+            ] , 
+            "borderColor"	:[
+                "#19234f"
+            ]
+    
+        
+        }]
+        }, 
+
+        "chartSix" :{
+            "labels" :[
+                "Q 1", 
+                "Q 2", 
+                "Q 3", 
+                "Q 4", 
+                "Q 5" 
+            ], 
+            "datasets":[{
+    
+            "data":[2,3,3.5,4.1,4.3], 
+    
+            "backgroundColor":[
+                "#d1d3dc"
+                
+                
+            ] , 
+            "borderColor"	:[
+                "#19234f"
+            ]
+    
+        
+        }]
+        }
+
+
+
+
+    }
+    
+   
+  }
+
+  
