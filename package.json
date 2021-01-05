@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "http://ion19.github.io/arabic-localizer-analytical",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "bootstrap": "^4.3.1",
     "chart.js": "^2.8.0",
     "gh-pages": "^2.1.1",
